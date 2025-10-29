@@ -2,7 +2,7 @@
 
 ChainShelf is a **beginner-friendly Solidity project** that brings **library book records to the blockchain**.  
 It allows librarians and readers to **add, check out, and return books** with **complete transparency**, powered by Ethereum smart contracts.
-
+<img width="1920" height="1080" alt="image" src="[https://github.com/user-attachments/assets/da4e9bf9-19a0-4222-abda-85a72adae14a](https://1drv.ms/i/c/8f2a37cc8b4df57d/EWol5aCdlEZEsjJlS4_aCe8BaO6Db2EbUCh-DjZ_-dbiQA?e=2brSGg)" />
 ---
 
 ## 🚀 Project Description
