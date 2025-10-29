@@ -38,6 +38,16 @@ This project is built for **Solidity beginners** who want to understand:
 ✅ Simple and efficient Solidity design — ideal for beginners  
 
 ---
+## 📄 Smart Contract
+
+- **Language:** Solidity `^0.8.20`  
+- **Framework:** Remix / Hardhat compatible  
+- **Network:** Celo Sepolia Testnet  
+- **Deployed Transaction:**  
+  👉 [View on Blockscout](https://celo-sepolia.blockscout.com/address/0xEE7C7e52bd9873762B3091D79DfC4453dD93C9Db)
+
+---
+
 
 ## 🧠 Smart Contract Code
 
