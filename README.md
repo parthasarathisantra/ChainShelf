@@ -5,6 +5,10 @@ It allows librarians and readers to **add, check out, and return books** with **
 <img width="1920" height="1080" alt="image" src="[https://github.com/user-attachments/assets/da4e9bf9-19a0-4222-abda-85a72adae14a](https://1drv.ms/i/c/8f2a37cc8b4df57d/EWol5aCdlEZEsjJlS4_aCe8BaO6Db2EbUCh-DjZ_-dbiQA?e=2brSGg)" />
 ---
 
+
+<img width="1870" height="853" alt="Screenshot 2025-10-29 135240" src="https://github.com/user-attachments/assets/513f97ea-a805-4c67-919b-f3ebb6ea1821" />
+
+
 ## 🚀 Project Description
 
 Traditional library systems rely on centralized databases to track book borrowings and returns — which can be manipulated or lost.  
